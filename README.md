@@ -63,6 +63,6 @@ Dibuat sebagai tugas mata kuliah Matematika Diskrit 🎓
 ---
 
 # Penugasan Sebelumnya:
-(Matriks 03) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-3
-(Matriks 02) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-2
-(Matriks 01) - https://github.com/mal-lia/Matematika-Diskrit-Matrix
+* (Matriks 03) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-3
+* (Matriks 02) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-2
+* (Matriks 01) - https://github.com/mal-lia/Matematika-Diskrit-Matrix
