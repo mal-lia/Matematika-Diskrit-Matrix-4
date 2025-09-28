@@ -1,6 +1,13 @@
 # Matematika-Diskrit-Matrix-4
 Codescript mensimulasikan 500 pola konsumsi makanan selama 31 hari dengan anggaran Rp1.000.000. Setiap pilihan makanan dihitung berdasarkan atribut kenyang, rasa, sehat, dan bosan. Hasilnya dianalisis untuk menemukan pola makan paling optimal, menghitung makanan favorit, serta memvisualisasikan hubungan antara kesehatan, kepuasan, dan pengeluaran.
 
+# Penugasan Sebelumnya:
+* (Matriks 03) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-3
+* (Matriks 02) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-2
+* (Matriks 01) - https://github.com/mal-lia/Matematika-Diskrit-Matrix
+
+---
+
 # 🍽️ Simulasi Pola Konsumsi Makanan
 Proyek ini merupakan Penugasan Mata Kuliah Matematika Diskrit (MATDIS) untuk simulasi pola konsumsi makanan menggunakan **Matematika Diskrit** dan **Python**.  
 Tujuannya adalah mencari pola makan yang **sehat, memuaskan, dan hemat biaya** berdasarkan atribut makanan yang tersedia.
@@ -59,10 +66,3 @@ Proyek ini menunjukkan bahwa pola konsumsi terbaik bukan hanya yang paling sehat
 24083010034
 Aisyah Amalia Hamid
 Dibuat sebagai tugas mata kuliah Matematika Diskrit 🎓
-
----
-
-# Penugasan Sebelumnya:
-* (Matriks 03) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-3
-* (Matriks 02) - https://github.com/mal-lia/Matematika-Diskrit-Matrix-2
-* (Matriks 01) - https://github.com/mal-lia/Matematika-Diskrit-Matrix
